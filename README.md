@@ -18,16 +18,39 @@
 
 ## Day1——2019/4/1
 
-#### [题目一：两数之和（Two Sum）](https://github.com/luxiangqiang/JS-LeetCode/blob/master/TwoSum.md)
+#### [题目1：两数之和（Two Sum）](https://github.com/luxiangqiang/JS-LeetCode/blob/master/TwoSum.md)
 
 
 
 ## Day2——2019/4/2
 
-#### [题目二：两数相加（Add Sum Numbers）](https://github.com/luxiangqiang/JS-LeetCode/blob/master/AddTwoNumbers.md)
+#### [题目2：两数相加（Add Sum Numbers）](https://github.com/luxiangqiang/JS-LeetCode/blob/master/AddTwoNumbers.md)
 
 
 
 ## Day3——2019/4/3
 
-#### [题目三：三数相加（3Sum）](https://github.com/luxiangqiang/JS-LeetCode/blob/master/AddTwoNumbers.md)
+#### [题目15：三数之和（3Sum）](https://github.com/luxiangqiang/JS-LeetCode/blob/master/AddTwoNumbers.md)
+
+
+
+## Day4——2019/4/4
+
+#### [题目169：求众数1（Majority Element 1)](https://github.com/luxiangqiang/JS-LeetCode/blob/master/MajorityElement1.md)
+
+
+
+## Day5——2019/4/5
+
+#### [题目229：求众数2（Majority Element 2）](https://github.com/luxiangqiang/JS-LeetCode/blob/master/MajorityElement2.md)
+
+
+
+## Day6——2019/4/6
+
+#### [题目41：缺失的第一个正数（First Missing Positive）](https://github.com/luxiangqiang/JS-LeetCode/blob/master/FirstMissingPositive.md)
+
+
+
+
+
