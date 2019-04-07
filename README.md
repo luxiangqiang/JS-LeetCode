@@ -1,4 +1,4 @@
-![](https://github.com/luxiangqiang/JS-LeetCode/blob/master/images/title.png)
+![](https://github.com/luxiangqiang/JS-LeetCode/blob/master/images/title2.png)
 
 # 前言
 
