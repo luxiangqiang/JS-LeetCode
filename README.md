@@ -23,6 +23,7 @@
 | 229 题 | 2019/4/5 | 中等 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [求众数 II](https://leetcode-cn.com/problems/majority-element-ii/) | [题目解析](https://github.com/luxiangqiang/JS-LeetCode/blob/master/MajorityElement2.md) |      |        |
 | 41 题  | 2019/4/6 | 困难 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/) | [题目解析](https://github.com/luxiangqiang/JS-LeetCode/blob/master/FirstMissingPositive.md) |      |        |
 | 141 题 | 2019/4/7 | 简单 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [环形链表 I](https://leetcode-cn.com/problems/linked-list-cycle/) | [题目解析](https://github.com/luxiangqiang/JS-LeetCode/blob/master/LinkedListCycle.md) |      |        |
+| 142 题 | 2019/4/8 | 中等 | [Linked List Cycle II]( [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) ) | [环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [题目解析](https://github.com/luxiangqiang/JS-LeetCode/blob/master/LinkedListCycle2.md) |      |        |
 
 
 
