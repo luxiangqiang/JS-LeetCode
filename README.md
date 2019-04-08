@@ -14,41 +14,15 @@
 
 #### 5、练”武“太急是大忌，”基本功“要稳！
 
-
-
-## Day1——2019/4/1
-
-#### [题目1：两数之和（Two Sum）](https://github.com/luxiangqiang/JS-LeetCode/blob/master/TwoSum.md)
-
-
-
-## Day2——2019/4/2
-
-#### [题目2：两数相加（Add Sum Numbers）](https://github.com/luxiangqiang/JS-LeetCode/blob/master/AddTwoNumbers.md)
-
-
-
-## Day3——2019/4/3
-
-#### [题目15：三数之和（3Sum）](https://github.com/luxiangqiang/JS-LeetCode/blob/master/AddTwoNumbers.md)
-
-
-
-## Day4——2019/4/4
-
-#### [题目169：求众数1（Majority Element 1)](https://github.com/luxiangqiang/JS-LeetCode/blob/master/MajorityElement1.md)
-
-
-
-## Day5——2019/4/5
-
-#### [题目229：求众数2（Majority Element 2）](https://github.com/luxiangqiang/JS-LeetCode/blob/master/MajorityElement2.md)
-
-
-
-## Day6——2019/4/6
-
-#### [题目41：缺失的第一个正数（First Missing Positive）](https://github.com/luxiangqiang/JS-LeetCode/blob/master/FirstMissingPositive.md)
+|  题号  |   日期   | 难度 |                           英文地址                           |                           中文地址                           |                          JavaScript                          | Java | Python |
+| :----: | :------: | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--: | :----: |
+|  1 题  | 2019/4/1 | 简单 |      [Two Sum](https://leetcode.com/problems/two-sum/)       |    [两数之和](https://leetcode-cn.com/problems/two-sum/)     | [题目解析](https://github.com/luxiangqiang/JS-LeetCode/blob/master/TwoSum.md) |      |        |
+|  2 题  | 2019/4/2 | 中等 | [Add Sum Numbers](https://leetcode.com/problems/add-two-numbers/) | [两数相加](https://leetcode-cn.com/problems/add-two-numbers/) | [题目解析](https://github.com/luxiangqiang/JS-LeetCode/blob/master/AddTwoNumbers.md) |      |        |
+| 15 题  | 2019/4/3 | 中等 |         [3Sum](https://leetcode.com/problems/3sum/)          |      [三数之和](https://leetcode-cn.com/problems/3sum/)      | [题目解析](https://github.com/luxiangqiang/JS-LeetCode/blob/master/3Sum.md) |      |        |
+| 169 题 | 2019/4/4 | 简单 | [Majority Element I](https://leetcode.com/problems/majority-element/) | [求众数 I](https://leetcode-cn.com/problems/majority-element/) | [题目解析](https://github.com/luxiangqiang/JS-LeetCode/blob/master/MajorityElement1.md) |      |        |
+| 229 题 | 2019/4/5 | 中等 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [求众数 II](https://leetcode-cn.com/problems/majority-element-ii/) | [题目解析](https://github.com/luxiangqiang/JS-LeetCode/blob/master/MajorityElement2.md) |      |        |
+| 41 题  | 2019/4/6 | 困难 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/) | [题目解析](https://github.com/luxiangqiang/JS-LeetCode/blob/master/FirstMissingPositive.md) |      |        |
+| 141 题 | 2019/4/7 | 简单 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [环形链表 I](https://leetcode-cn.com/problems/linked-list-cycle/) | [题目解析](https://github.com/luxiangqiang/JS-LeetCode/blob/master/LinkedListCycle.md) |      |        |
 
 
 
