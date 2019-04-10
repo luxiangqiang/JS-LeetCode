@@ -56,54 +56,54 @@ Output: [1,2]
 ###### ▉ 代码实现：
 
 ```javascript
-      /**
-        * @param {number[]} nums
-        * @return {number[]}
-        */
-        var majorityElement = function(nums) {
-            let [m,n,cm,cn,countm,countn] = [0,0,0,0,0,0];
-            let result = [];
-            
-            for(let i = 0;i < nums.length; ++i){
-				//m === nums[i]和n === nums[i]的判断一定放到 cm === 0 和 cn === 0 之前，负责产生 bug。
-                if(m === nums[i]){
-                    cm ++;
-                }else if(n === nums[i]){
-                    cn ++;
-                }else if(cm === 0){
-                    m = nums[i];
-                    cm ++;
-                }else if(cn === 0){
-                    n = nums[i];
-                    cn ++;
-                }else{
-                    cn--;
-                    cm--;
-                }
-            }
-            //验证 cm、cn 存储的数据
-            for(let index in nums){
-                if(nums[index] === m){
-                    ++countm;
-                }
-                if(nums[index] === n){
-                    ++countn;
-                }
-            }
-            
-            if(countm > Math.floor(nums.length/3)){
-                result.push(m);
-            }
-		
-            if(countn > Math.floor(nums.length/3) && n != m){
-                result.push(n);
-            }
-            return result;
-        };
+  /**
+    * @param {number[]} nums
+    * @return {number[]}
+    */
+var majorityElement = function(nums) {
+    let [m,n,cm,cn,countm,countn] = [0,0,0,0,0,0];
+    let result = [];
+    
+    for(let i = 0;i < nums.length; ++i){
+		//m === nums[i]和n === nums[i]的判断一定放到 cm === 0 和 cn === 0 之前，负责产生 bug。
+        if(m === nums[i]){
+            cm ++;
+        }else if(n === nums[i]){
+            cn ++;
+        }else if(cm === 0){
+            m = nums[i];
+            cm ++;
+        }else if(cn === 0){
+            n = nums[i];
+            cn ++;
+        }else{
+            cn--;
+            cm--;
+        }
+    }
+    //验证 cm、cn 存储的数据
+    for(let index in nums){
+        if(nums[index] === m){
+            ++countm;
+        }
+        if(nums[index] === n){
+            ++countn;
+        }
+    }
+    
+    if(countm > Math.floor(nums.length/3)){
+        result.push(m);
+    }
 
-        //测试
-        let arr =[1,2,2,3,2,1,1,3];
-        console.log(majorityElement(arr));
+    if(countn > Math.floor(nums.length/3) && n != m){
+        result.push(n);
+    }
+    return result;
+};
+
+//测试
+let arr =[1,2,2,3,2,1,1,3];
+console.log(majorityElement(arr));
 ```
 
 
