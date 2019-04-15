@@ -29,7 +29,8 @@
 | 20 题  | 2019/4/11 | 简单 | [Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/) | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | [题目解析](https://github.com/luxiangqiang/JS-LeetCode/blob/master/ValidParentheses.md) |      |        |
 | 70 题  | 2019/4/12 | 简单 | [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/) | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)  | [题目解析](https://github.com/luxiangqiang/JS-LeetCode/blob/master/ClimbingStairs.md) |      |        |
 | 32 题  | 2019/4/13 | 困难 | [Longest Valid Parentheses](https://leetcode-cn.com/problems/longest-valid-parentheses/) | [最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/) | [题目解析](https://github.com/luxiangqiang/JS-LeetCode/blob/master/LongestVaildParentheses.md) |      |        |
-| 150题  | 2019/4/14 | 中等 | [ Evaluate Reverse Polish Notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | [逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | [题目解析](https://github.com/luxiangqiang/JS-LeetCode/blob/master/EvaluateReversePolishNotation.md) |      |        |
+| 150 题 | 2019/4/14 | 中等 | [ Evaluate Reverse Polish Notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | [逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | [题目解析](https://github.com/luxiangqiang/JS-LeetCode/blob/master/EvaluateReversePolishNotation.md) |      |        |
+| 641 题 | 2019/4/15 | 中等 | [Design Circular Deque](https://leetcode-cn.com/problems/design-circular-deque/) | [设计循环双端队列](https://leetcode-cn.com/problems/design-circular-deque/) | [题目解析](https://github.com/luxiangqiang/JS-LeetCode/blob/master/DesignCircularDeque.md) |      |        |
 
 
 
