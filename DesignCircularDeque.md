@@ -65,7 +65,14 @@ circularDeque.getFront();			// return 4
 
 ###### ▉ 算法思路
 
-> 借助 Javascript 中数组中的 API 可快速实现一个双向队列。
+> 借助 Javascript 中数组中的 API 可快速实现一个双向队列。如：
+>
+> - `arr.pop()` : 删除数组尾部最后一个数据。
+> - `arr.push() `：在数组尾部插入一个数据。
+> - `arr.shift()`：数组头部删除第一个数据。
+> - `arr.unshift()`：数组头部插入一个数据。
+>
+> 以上数组提供的 API 使得更方便的对数组进行操作和模拟其他数据结构的操作，栈、队列等。
 
 
 
@@ -82,6 +89,7 @@ circularDeque.getFront();			// return 4
         * Adds an item at the front of Deque. Return true if the operation is successful. 
         * @param {number} value
         * @return {boolean}
+        * 功能:队列头部入队
         */
         MyCircularDeque.prototype.insertFront = function(value) {
             if(this.deque.length === this.size){
@@ -96,6 +104,7 @@ circularDeque.getFront();			// return 4
         * Adds an item at the rear of Deque. Return true if the operation is successful. 
         * @param {number} value
         * @return {boolean}
+        * 功能：队列尾部入队
         */
         MyCircularDeque.prototype.insertLast = function(value) {
             if(this.deque.length === this.size){
@@ -109,6 +118,7 @@ circularDeque.getFront();			// return 4
         /**
         * Deletes an item from the front of Deque. Return true if the operation is successful.
         * @return {boolean}
+        * 功能：队列头部出队
         */
         MyCircularDeque.prototype.deleteFront = function() {
             if(this.deque.length === 0){
@@ -122,6 +132,7 @@ circularDeque.getFront();			// return 4
         /**
         * Deletes an item from the rear of Deque. Return true if the operation is successful.
         * @return {boolean}
+        * 功能：队列尾部出队
         */
         MyCircularDeque.prototype.deleteLast = function() {
             if(this.deque.length === 0){
@@ -135,6 +146,7 @@ circularDeque.getFront();			// return 4
         /**
         * Get the front item from the deque.
         * @return {number}
+        * 功能：获取队列头部第一个数据
         */
         MyCircularDeque.prototype.getFront = function() {
             if(this.deque.length === 0){
@@ -147,6 +159,7 @@ circularDeque.getFront();			// return 4
         /**
         * Get the last item from the deque.
         * @return {number}
+        * 功能：获取队列尾部第一个数据
         */
         MyCircularDeque.prototype.getRear = function() {
             if(this.deque.length === 0){
@@ -159,6 +172,7 @@ circularDeque.getFront();			// return 4
         /**
         * Checks whether the circular deque is empty or not.
         * @return {boolean}
+        * 功能：判断双端队列是否为空
         */
         MyCircularDeque.prototype.isEmpty = function() {
             if(this.deque.length === 0){
@@ -171,6 +185,7 @@ circularDeque.getFront();			// return 4
         /**
         * Checks whether the circular deque is full or not.
         * @return {boolean}
+        * 功能：判断双端队列是否为满
         */
         MyCircularDeque.prototype.isFull = function() {
             if(this.deque.length === this.size){
