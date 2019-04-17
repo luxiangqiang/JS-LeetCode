@@ -32,6 +32,7 @@
 | 150 题 | 2019/4/14 | 中等 | [ Evaluate Reverse Polish Notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | [逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | [题目解析](https://github.com/luxiangqiang/JS-LeetCode/blob/master/EvaluateReversePolishNotation.md) |      |        |
 | 641 题 | 2019/4/15 | 中等 | [Design Circular Deque](https://leetcode-cn.com/problems/design-circular-deque/) | [设计循环双端队列](https://leetcode-cn.com/problems/design-circular-deque/) | [题目解析](https://github.com/luxiangqiang/JS-LeetCode/blob/master/DesignCircularDeque.md) |      |        |
 | 239 题 | 2019/4/16 | 困难 | [Sliding Window Maximum](https://leetcode-cn.com/problems/sliding-window-maximum/) | [滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) | [题目解析](https://github.com/luxiangqiang/JS-LeetCode/blob/master/SlidingWindowMaximum.md) |      |        |
+| 69 题  | 2019/4/17 | 简单 |      [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)      |    [x 的平方根](https://leetcode-cn.com/problems/sqrtx/)     | [题目分析](https://github.com/luxiangqiang/JS-LeetCode/blob/master/sqrtx.md) |      |        |
 
 
 
