@@ -39,6 +39,8 @@
 | 226 题 | 2019/4/21 | 简单 | [Invert Binary Tree](https://leetcode-cn.com/problems/invert-binary-tree/) | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/) | [题目分析](https://github.com/luxiangqiang/JS-LeetCode/blob/master/InvertBinaryTree.md) |      |        |
 | 104题  | 2019/4/22 | 简单 | [Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [题目分析](https://github.com/luxiangqiang/JS-LeetCode/blob/master/MaximumDepthofBinaryTree.md) |      |        |
 | 206题  | 2019/4/23 | 简单 | [Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/) | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [题目分析](https://github.com/luxiangqiang/JS-LeetCode/blob/master/ReverseLinkedList.md) |      |        |
+| 98 题  | 2019/4/24 | 中等 | [Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [题目分析](https://github.com/luxiangqiang/JS-LeetCode/blob/master/VaildataBinarySearchTree.md) |      |        |
+| 94 题  | 2019/4/25 | 中等 | [Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [题目分析](https://github.com/luxiangqiang/JS-LeetCode/blob/master/BinaryTreeInorderTraversal.md) |      |        |
 
 
 
