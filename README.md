@@ -41,6 +41,7 @@
 | 206题  | 2019/4/23 | 简单 | [Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/) | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [题目分析](https://github.com/luxiangqiang/JS-LeetCode/blob/master/ReverseLinkedList.md) |      |        |
 | 98 题  | 2019/4/24 | 中等 | [Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [题目分析](https://github.com/luxiangqiang/JS-LeetCode/blob/master/VaildataBinarySearchTree.md) |      |        |
 | 94 题  | 2019/4/25 | 中等 | [Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [题目分析](https://github.com/luxiangqiang/JS-LeetCode/blob/master/BinaryTreeInorderTraversal.md) |      |        |
+| 112 题 | 2019/4/26 | 简单 |    [Path Sum](https://leetcode-cn.com/problems/path-sum/)    |    [路径总和](https://leetcode-cn.com/problems/path-sum/)    | [题目分析](https://github.com/luxiangqiang/JS-LeetCode/blob/master/PathSum.md) |      |        |
 
 
 
