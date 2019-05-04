@@ -45,7 +45,7 @@
 | 783 题 | 2019/4/27 | 简单 | [Minimum Distance Between BST Nodes](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/) | [二叉搜索树结点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/) | [题目分析](https://github.com/luxiangqiang/JS-LeetCode/blob/master/MinimumDistanceBetweenBSTNodes.md) |      |        |
 | 200 题 | 2019/4/28 | 中等 | [Number of Islands](https://leetcode-cn.com/problems/number-of-islands/) | [岛屿的个数](https://leetcode-cn.com/problems/number-of-islands/) | [题目分析](https://github.com/luxiangqiang/JS-LeetCode/blob/master/NumberofIslands.md) |      |        |
 | 36 题  | 2019/4/29 | 中等 | [Valid Sudoku](https://leetcode-cn.com/problems/valid-sudoku/) | [有效的数独](https://leetcode-cn.com/problems/valid-sudoku/) | [题目分析](https://github.com/luxiangqiang/JS-LeetCode/blob/master/VaildSudoku.md) |      |        |
-| 46 题  | 2019/4/30 | 中等 | [Permutations](https://leetcode-cn.com/problems/permutations/) |   [全排列](https://leetcode-cn.com/problems/permutations/)   |                           题目分析                           |      |        |
+| 46 题  | 2019/4/30 | 中等 | [Permutations](https://leetcode-cn.com/problems/permutations/) |   [全排列](https://leetcode-cn.com/problems/permutations/)   | [题目分析](https://github.com/luxiangqiang/JS-LeetCode/blob/master/Permutations.md) |      |        |
 
 
 
