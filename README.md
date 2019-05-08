@@ -2,7 +2,7 @@
 
 # 前言
 
-> 2019/4/1 起，每天都会做一道 LeetCode 算法题！锻炼自己多种解题思路，并且记录每道算法题的收获！
+> 2019/4/1 起，每天都会做一道 LeetCode 算法题！30天锻炼自己多种解题思路，用心记录每道算法题的收获！
 
 #### 1、练习“站桩”每天要坚持，一天都不能少！
 
@@ -46,6 +46,20 @@
 | 200 题 | 2019/4/28 | 中等 | [Number of Islands](https://leetcode-cn.com/problems/number-of-islands/) | [岛屿的个数](https://leetcode-cn.com/problems/number-of-islands/) | [题目分析](https://github.com/luxiangqiang/JS-LeetCode/blob/master/NumberofIslands.md) |      |        |
 | 36 题  | 2019/4/29 | 中等 | [Valid Sudoku](https://leetcode-cn.com/problems/valid-sudoku/) | [有效的数独](https://leetcode-cn.com/problems/valid-sudoku/) | [题目分析](https://github.com/luxiangqiang/JS-LeetCode/blob/master/VaildSudoku.md) |      |        |
 | 46 题  | 2019/4/30 | 中等 | [Permutations](https://leetcode-cn.com/problems/permutations/) |   [全排列](https://leetcode-cn.com/problems/permutations/)   | [题目分析](https://github.com/luxiangqiang/JS-LeetCode/blob/master/Permutations.md) |      |        |
+
+
+
+## 后记
+
+通过一个月的 LeedCode 算法题的记录，逐渐的发现有几个特别重要且难理解的几个算法和数据结构，所以接下来的一个月主攻这几部分，比如：递归、回溯算法、贪心算法以及动态规划等。
+
+在网上看了很多博客，发现很多都是懵懵懂懂，即使写文章的人很明白，但是那种让读者看起来非常懵懵的文章占大多数的。我自己在查找这方面文章时，也走了很多坑，所以呢，根据以前做过的题，将其综合起来进行分析，通过深层的理解，将最初的、基本的算法思想能够简单易懂的写出来分享给每个人，对我这个渣渣来说，也是挺有难度的，那就尝试的去努力做吧。
+
+
+
+
+
+
 
 
 
