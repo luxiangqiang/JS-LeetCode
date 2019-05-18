@@ -43,9 +43,15 @@ while the minimum difference in this tree is 1, it occurs between node 1 and nod
 
 ###### ▉ 问题分析
 
+> 返回树中任意两个节点的差值，根据问题，可以将问题理解为，每个任意节点的差值的绝对值，那怎么进行相减呢？还需要用到树中的中序遍历。
+
 
 
 ###### ▉ 算法思路
+
+> 1）对树进行中序遍历，中序遍历的的值是逐渐递增的，我们将其遍历整棵树存入数组。
+>
+> 2）然后对数组中的前后两个数求差值，求的最小的差值为树中任意两点的差的最小值。
 
 
 
@@ -56,16 +62,16 @@ var minDiffInBST = function(root) {
     if(root == null) return null;
     let arr = [];
     let min = Number.MAX_VALUE
-
+	// 中序遍历
     distance = (root)=>{
         if(root == null) return null;
         distance(root.left)
         arr.push(root.val);
         distance(root.right)
     }
-
+	
     distance(root);
-    
+    // 求差值
     for(let i = 1;i < arr.length;i++){
         min = Math.min(min,arr[i] - arr[i - 1])    
     } 
